@@ -1,0 +1,86 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.main {
+  background-image: url(./assets/img/back-mobile.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.custom-bg {
+  background-image: url(./assets/img/grey_background.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rotate-reverse45 {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+}
+.contacts {
+  background-image: url(./assets/img/triangle\ white\ footer.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.custom-z-index {
+  z-index: -2;
+}
+.custom-top {
+  top: -35%;
+}
+@media (min-width: 768px) {
+  .custom-top {
+    top: -66%;
+}
+}
+.custom-background-and-shadow {
+  background: #F2F2F2;
+  -webkit-box-shadow: 0px -8px 9px -10px rgba(34, 60, 80, 0.57);
+  -moz-box-shadow: 0px -8px 9px -10px rgba(34, 60, 80, 0.57);
+  box-shadow: 0px -8px 9px -10px rgba(34, 60, 80, 0.57);
+}
+
+
+/* animations */
+.fade-enter {
+  opacity: 0.5;
+  transition: .3s ease;
+}
+.fade-enter-active {
+  opacity: 1;
+  transition: .3s ease;
+}
+.fade-leave-to {
+  opacity: 0.5;
+  transition: .3s ease;
+}
+
+.fade-leave-active {
+  opacity: 0;
+  transition: .3s ease;
+}
+
+
+
+/* @media */
+@media (min-width: 768px) {
+  .main {
+    background-image: url(./assets/img/backgraund_desktop.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+@media (orientation: landscape) and (min-width: 1024px) {
+  .custom-size img {
+    height: 80vh;
+    width: auto;
+    object-fit: contain;
+    object-position: bottom;
+  }
+}
+.custom-background {
+  background: #0000001c;
+}
