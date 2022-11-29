@@ -4,16 +4,16 @@
           <div class="hidden md:grid bg-white items-end">
             <div class="h-28"></div>
             <div class=" text-lg uppercase">
-              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="">Розовый фильтр</p><img class="md:hidden" src="../assets/img/yes.svg" alt=""></div>
-              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="">Смайлики</p><img class="md:hidden" src="../assets/img/yes.svg" alt=""></div>
-              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="">Комментарии</p><img class="md:hidden" src="../assets/img/no.svg" alt=""></div>
+              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="">Розовый фильтр</p><img class="md:hidden" src="../assets/yes.svg" alt=""></div>
+              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="">Смайлики</p><img class="md:hidden" src="../assets/yes.svg" alt=""></div>
+              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="">Комментарии</p><img class="md:hidden" src="../assets/no.svg" alt=""></div>
             </div>
           </div>
           <div class="bg-white">
             <div class="relative  h-28 bg-slate-800">
               <div class="absolute top-0 left-0">
                 <figure class="relative">
-                  <img src="../assets/img/hit ribbon.svg" alt="">
+                  <img src="../assets/hit ribbon.svg" alt="">
                   <figcaption class="absolute top-6 left-2 text-white uppercase rotate-reverse45 inline-block">Хит</figcaption>
                 </figure>
               </div>
@@ -23,16 +23,16 @@
               </div>
             </div>
             <div class=" text-lg uppercase">
-              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="md:hidden" >Розовый фильтр</p><img class="md:mx-auto" src="../assets/img/yes.svg" alt=""></div>
-              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="md:hidden" >Смайлики</p><img class="md:mx-auto" src="../assets/img/yes.svg" alt=""></div>
-              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="md:hidden" >Комментарии</p><img class="md:mx-auto" src="../assets/img/no.svg" alt=""></div>
+              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="md:hidden" >Розовый фильтр</p><img class="md:mx-auto" src="../assets/yes.svg" alt=""></div>
+              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="md:hidden" >Смайлики</p><img class="md:mx-auto" src="../assets/yes.svg" alt=""></div>
+              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="md:hidden" >Комментарии</p><img class="md:mx-auto" src="../assets/no.svg" alt=""></div>
             </div>
           </div>
           <div class="hidden md:block bg-white">
             <div class="relative h-28 bg-slate-800">
               <div class="absolute top-0 left-0">
                 <figure class="relative">
-                  <img src="../assets/img/hit ribbon.svg" alt="">
+                  <img src="../assets/hit ribbon.svg" alt="">
                   <figcaption class="absolute top-6 left-2 text-white uppercase rotate-reverse45 inline-block">Хит</figcaption>
                 </figure>
               </div>
@@ -42,16 +42,16 @@
               </div>
             </div>
             <div class=" text-lg uppercase">
-              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="md:hidden" >Розовый фильтр</p><img class="mx-auto" src="../assets/img/yes.svg" alt=""></div>
-              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="md:hidden" >Смайлики</p><img class="mx-auto" src="../assets/img/yes.svg" alt=""></div>
-              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="md:hidden" >Комментарии</p><img class="mx-auto" src="../assets/img/no.svg" alt=""></div>
+              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="md:hidden" >Розовый фильтр</p><img class="mx-auto" src="../assets/yes.svg" alt=""></div>
+              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="md:hidden" >Смайлики</p><img class="mx-auto" src="../assets/yes.svg" alt=""></div>
+              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="md:hidden" >Комментарии</p><img class="mx-auto" src="../assets/no.svg" alt=""></div>
             </div>
           </div> 
           <div class="hidden md:block bg-white">
             <div class="relative h-28 bg-slate-800">
               <div class="absolute top-0 left-0">
                 <figure class="relative">
-                  <img src="../assets/img/hit ribbon.svg" alt="">
+                  <img src="../assets/hit ribbon.svg" alt="">
                   <figcaption class="absolute top-6 left-2 text-white uppercase rotate-reverse45 inline-block">Хит</figcaption>
                 </figure>
               </div>
@@ -61,9 +61,9 @@
               </div>
             </div>
             <div class="text-lg uppercase">
-              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="md:hidden" >Розовый фильтр</p><img class="mx-auto" src="../assets/img/yes.svg" alt=""></div>
-              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="md:hidden" >Смайлики</p><img class="mx-auto" src="../assets/img/yes.svg" alt=""></div>
-              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="md:hidden" >Комментарии</p><img class="mx-auto" src="../assets/img/no.svg" alt=""></div>
+              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="md:hidden" >Розовый фильтр</p><img class="mx-auto" src="../assets/yes.svg" alt=""></div>
+              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="md:hidden" >Смайлики</p><img class="mx-auto" src="../assets/yes.svg" alt=""></div>
+              <div class="py-6 px-3 border-2 flex flex-row justify-between h-20 items-center"><p class="md:hidden" >Комментарии</p><img class="mx-auto" src="../assets/no.svg" alt=""></div>
             </div>
           </div>
         </div>

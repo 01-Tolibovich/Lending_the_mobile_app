@@ -5,10 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build", 
     "preview": "vite preview"
   },
   "dependencies": {
+    "production": "^0.0.2",
     "vue": "^3.2.41"
   },
   "devDependencies": {

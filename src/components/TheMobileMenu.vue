@@ -5,8 +5,8 @@
                 <div class="cursor-pointer">
                     
                     <transition name="btn" mode="out-in">
-                        <div v-if="!show" @click="show = !show" key="menu" class="relative"><span class="opacity-0 absolute">menu</span><img class="w-5"  src="../assets/img/hamburger-menu-svgrepo-com.svg" alt=""></div>
-                        <div v-else @click="show = !show" key="clear" class="relative"><span class="opacity-0 absolute">clear</span><img class="w-5" src="../assets/img/close-svgrepo-com.svg" alt=""></div>
+                        <div v-if="!show" @click="show = !show" key="menu" class="relative"><span class="opacity-0 absolute">menu</span><img class="w-5"  src="../assets/hamburger-menu-svgrepo-com.svg" alt=""></div>
+                        <div v-else @click="show = !show" key="clear" class="relative"><span class="opacity-0 absolute">clear</span><img class="w-5" src="../assets/close-svgrepo-com.svg" alt=""></div>
                     </transition>
                 </div>
             </div>
